@@ -1,2 +1,2 @@
 # sales-analysis
-This project aims to analyze sales at a startup.
+This project aims to analyze sales at a e-commerce shop.
